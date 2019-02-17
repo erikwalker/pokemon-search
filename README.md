@@ -20,6 +20,6 @@ Below image displays popup of Pikachu pokemon battle statistics
 ![image](https://user-images.githubusercontent.com/19658505/52916413-27cd2e80-32ad-11e9-9795-2a60ff786518.png)
 
 # to checkout and run application
-Simply fork, clone or checkout the master branch
-run npm install to get the npm and nodeJS dependencies
-run npm start to start the server
+• Simply fork, clone or checkout the master branch
+• run npm install to get the npm and nodeJS dependencies
+• run npm start to start the server
