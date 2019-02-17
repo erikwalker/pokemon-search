@@ -8,7 +8,7 @@ An angular4 application that allows to create, read, update and delete pokemons 
 • Used NG-2 bootstrap to view popup modals and tooltip
 • Used version 4 of bootstrap CSS framework
 
-## main page
+## Main Page
 The main page of the application displaying listing and images of most popular pokemons available
 
 ![image](https://user-images.githubusercontent.com/19658505/52916338-1e8f9200-32ac-11e9-8f14-19b9eec775f4.png)
