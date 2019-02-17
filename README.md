@@ -1,4 +1,4 @@
-### Pokemon-search application
+# Pokemon-search application
 An angular4 application that allows to create, read, update and delete pokemons using in memory database.
 
 • Performed Crud operations on in memory angular api
